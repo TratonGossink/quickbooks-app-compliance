@@ -1,0 +1,13 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Privacy Policy</title></head>
+<body>
+<h1>Privacy Policy</h1>
+<p>We collect and process data solely to connect our n8n automations to QuickBooks Online
+for invoicing and accounting tasks. We do not sell personal data. Contact: support@example.com.</p>
+<h2>Data</h2>
+<ul><li>Customer and accounting data retrieved via QuickBooks API</li>
+<li>Stored only in our systems required to perform automation</li></ul>
+<h2>Security</h2>
+<p>Transport via HTTPS; access restricted to authorized administrators.</p>
+<h2>Contact</h2>
+<p>Email support@example.com for questions or deletion requests.</p>
+</body></html>
